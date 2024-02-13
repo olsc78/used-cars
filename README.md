@@ -19,6 +19,7 @@ The data exploration analysis revealed that the dataset needed a lot of cleaning
 - skewed distributions
 - non-linear relationship
 - correlated independant variables
+  
 Multiple transformation, imputation and engineering techniques have been used to preserve the informative power of the dataset.
 
 ### Models
