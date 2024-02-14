@@ -6,7 +6,7 @@ Build a model to predict the prices of used cars in order to identify the most r
 - It contains more than 425,000 samples of used cars and their features
 
 ## Notebook and Repository
-- The analysis of the data supporting the findings can be found in the "used cars - olsc.ipynb" notebook
+- The analysis of the data supporting the findings can be found in the "used cars - olsc.ipynb" notebook. Note: the file size is 70MB+ with all outputs. Please download the file rather than opening it via Github.
 - Git Repository is located at https://github.com/olsc78/used-cars.git
 
 ## Summary of findings
